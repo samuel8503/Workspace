@@ -1,0 +1,8 @@
+/home/samuel/.tmux.conf.local
+/home/samuel/.tmux.conf
+/home/samuel/.zshrc
+/home/samuel/.p10k.zsh
+/home/samuel/.zshrc.back
+/home/samuel/.zshrc.pre-oh-my-zsh
+/home/samuel/.bashrc
+/etc/passwd
